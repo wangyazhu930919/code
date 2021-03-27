@@ -513,3 +513,5 @@ namespace classes
 
 重新写三个类：`InteresEarningAccount`,`LineOfCreditAccount`,`GiftCardAccount`
 
+
+> 使用C#语言的难点在于不知道怎么利用.NET Core开发web应用。
