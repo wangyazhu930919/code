@@ -1,0 +1,16 @@
+D:\Project\Code\denoCsharp\bin\Debug\net5.0\denoCsharp.exe
+D:\Project\Code\denoCsharp\bin\Debug\net5.0\denoCsharp.deps.json
+D:\Project\Code\denoCsharp\bin\Debug\net5.0\denoCsharp.runtimeconfig.json
+D:\Project\Code\denoCsharp\bin\Debug\net5.0\denoCsharp.runtimeconfig.dev.json
+D:\Project\Code\denoCsharp\bin\Debug\net5.0\denoCsharp.dll
+D:\Project\Code\denoCsharp\bin\Debug\net5.0\ref\denoCsharp.dll
+D:\Project\Code\denoCsharp\bin\Debug\net5.0\denoCsharp.pdb
+D:\Project\Code\denoCsharp\obj\Debug\net5.0\denoCsharp.csprojAssemblyReference.cache
+D:\Project\Code\denoCsharp\obj\Debug\net5.0\denoCsharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Code\denoCsharp\obj\Debug\net5.0\denoCsharp.AssemblyInfoInputs.cache
+D:\Project\Code\denoCsharp\obj\Debug\net5.0\denoCsharp.AssemblyInfo.cs
+D:\Project\Code\denoCsharp\obj\Debug\net5.0\denoCsharp.csproj.CoreCompileInputs.cache
+D:\Project\Code\denoCsharp\obj\Debug\net5.0\denoCsharp.dll
+D:\Project\Code\denoCsharp\obj\Debug\net5.0\ref\denoCsharp.dll
+D:\Project\Code\denoCsharp\obj\Debug\net5.0\denoCsharp.pdb
+D:\Project\Code\denoCsharp\obj\Debug\net5.0\denoCsharp.genruntimeconfig.cache

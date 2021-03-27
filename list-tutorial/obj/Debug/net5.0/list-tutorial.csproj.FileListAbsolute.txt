@@ -1,0 +1,16 @@
+D:\Project\Code\list-tutorial\bin\Debug\net5.0\list-tutorial.exe
+D:\Project\Code\list-tutorial\bin\Debug\net5.0\list-tutorial.deps.json
+D:\Project\Code\list-tutorial\bin\Debug\net5.0\list-tutorial.runtimeconfig.json
+D:\Project\Code\list-tutorial\bin\Debug\net5.0\list-tutorial.runtimeconfig.dev.json
+D:\Project\Code\list-tutorial\bin\Debug\net5.0\list-tutorial.dll
+D:\Project\Code\list-tutorial\bin\Debug\net5.0\ref\list-tutorial.dll
+D:\Project\Code\list-tutorial\bin\Debug\net5.0\list-tutorial.pdb
+D:\Project\Code\list-tutorial\obj\Debug\net5.0\list-tutorial.csprojAssemblyReference.cache
+D:\Project\Code\list-tutorial\obj\Debug\net5.0\list-tutorial.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Code\list-tutorial\obj\Debug\net5.0\list-tutorial.AssemblyInfoInputs.cache
+D:\Project\Code\list-tutorial\obj\Debug\net5.0\list-tutorial.AssemblyInfo.cs
+D:\Project\Code\list-tutorial\obj\Debug\net5.0\list-tutorial.csproj.CoreCompileInputs.cache
+D:\Project\Code\list-tutorial\obj\Debug\net5.0\list-tutorial.dll
+D:\Project\Code\list-tutorial\obj\Debug\net5.0\ref\list-tutorial.dll
+D:\Project\Code\list-tutorial\obj\Debug\net5.0\list-tutorial.pdb
+D:\Project\Code\list-tutorial\obj\Debug\net5.0\list-tutorial.genruntimeconfig.cache
